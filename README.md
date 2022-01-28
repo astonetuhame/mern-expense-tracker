@@ -50,7 +50,7 @@ npm run build
 
 ## Built With
 
-* [ReactJS](https://reactjs.org/) / [Context API](https://reactjs.org/docs/context.html)- Frontend 
+* [ReactJS](https://reactjs.org/) / [Context API](https://reactjs.org/docs/context.html) - Frontend 
 * [NodeJS](https://nodejs.org/) / [Express](https://expressjs.com/) - Backend
 * [MongoDB](https://www.mongodb.com/) - Database
 
